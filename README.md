@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Aylin Orjuela, desarrollador de software.</a> 😊</h1>
+<br>
+</div>
 
-<!--
-**AylinOrjuela/AylinOrjuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img src="https://media.licdn.com/dms/image/D4E16AQEjNIIo4LGWfw/profile-displaybackgroundimage-shrink_350_1400/0/1698098956182?e=1703721600&v=beta&t=6TaE2cqmIdOR9IGr6AUbE3RVjocGtXMerlEOAsNJd9c" alt="BannerProfile">
+<br>
 
-Here are some ideas to get you started:
+<h3>Linkedin Profile : 
+https://www.linkedin.com/in/aylinorjuela/</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+Sobre mi
+📲 Mobile developer
+Estudiante en Universidad Distrital Francisco Jose de Caldas. Tecnología en sistematización de Datos
+<br>
