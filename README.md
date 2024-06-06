@@ -21,7 +21,9 @@ Tecnóloga en Sistematización de Datos con experiencia en el desarrollo de apli
 
 ### 1. Aplicación principal
 
-    Aplicación de Ganadería
+    <a href="https://github.com/JuanPCFdev/LivestockProject">Aplicación de Ganadería📱🐄 </a></h3>
+    <a href="https://github.com/AylinOrjuela/DocumentacionGanaderia">Documentación de la app de Ganadería📄🐮</a></h3>
+    <a href="https://www.youtube.com/watch?v=N9TQnIigtPM">Video de la app de Ganadería📽️🐮</a></h3>
 
 - **Gestión para ganado de cria y levante**: Mi aplicación principal diseñada para apoyar a los pequeños ganaderos. Proporciona herramientas y recursos esenciales para gestionar sus operaciones de manera más eficiente.
 
