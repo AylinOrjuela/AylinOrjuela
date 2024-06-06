@@ -1,35 +1,28 @@
 <div align="center">
-<h1 align="center">Aylin Orjuela, Desarrolladora mobile 😊📱🤳</h1>
-<br>
+<h1>Aylin Orjuela, Desarrolladora Mobile 😊📱🤳</h1>
 </div>
 
-<img src="https://raw.githubusercontent.com/AylinOrjuela/AylinOrjuela/main/Banner.png" alt="BannerProfile">
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AylinOrjuela/AylinOrjuela/main/Banner.png" alt="BannerProfile">
+</p>
 
 <h3>LinkedIn Profile: 
-<a href="www.linkedin.com/in/aylinorjuela">Aylin Orjuela</a></h3>
-
-<br>
+<a href="https://www.linkedin.com/in/aylinorjuela">Aylin Orjuela</a></h3>
 
 ## Sobre mí
-📲 Mobile developer  
-Tecnóloga en Sistematización de Datos con experiencia en el desarrollo de aplicaciones móviles utilizando Android Studio y el lenguaje de programación Kotlin. Utilizo XML y Jetpack Compose para el diseño de las aplicaciones. En cuanto a la planificación, empleo principalmente la metodología ágil Scrum y también tengo conocimientos en la metodología RUP.
-
-<br>
+📲 Soy una desarrolladora móvil apasionada. Como tecnóloga en Sistematización de Datos, tengo experiencia en el desarrollo de aplicaciones móviles utilizando Android Studio y Kotlin. Utilizo XML y Jetpack Compose para el diseño de las aplicaciones. En cuanto a la planificación, empleo principalmente la metodología ágil Scrum y también tengo conocimientos en la metodología RUP.
 
 ## Mis Aplicaciones
 
-### 1. Aplicación principal
+### 1. Aplicación Principal
 
-    <a href="https://github.com/JuanPCFdev/LivestockProject">Aplicación de Ganadería📱🐄 </a></h3>
-    <a href="https://github.com/AylinOrjuela/DocumentacionGanaderia">Documentación de la app de Ganadería📄🐮</a></h3>
-    <a href="https://www.youtube.com/watch?v=N9TQnIigtPM">Video de la app de Ganadería📽️🐮</a></h3>
+- **Gestión para Ganado de Cría y Levante**: Esta es mi aplicación principal diseñada para apoyar a los pequeños ganaderos. Proporciona herramientas y recursos esenciales para gestionar sus operaciones de manera más eficiente.
 
-- **Gestión para ganado de cria y levante**: Mi aplicación principal diseñada para apoyar a los pequeños ganaderos. Proporciona herramientas y recursos esenciales para gestionar sus operaciones de manera más eficiente.
-
+  [Repositorio](https://github.com/JuanPCFdev/LivestockProject) 📱🐄 | [Documentación](https://github.com/AylinOrjuela/DocumentacionGanaderia) 📄🐮 | [Video](https://www.youtube.com/watch?v=N9TQnIigtPM) 📽️🐮
 
 ## Contacto
 
 - **Email**: aylincamilao@gmail.com
-- **LinkedIn**: www.linkedin.com/in/aylinorjuela
+- **LinkedIn**: [Aylin Orjuela](https://www.linkedin.com/in/aylinorjuela)
+
 
