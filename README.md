@@ -10,8 +10,11 @@
 <a href="https://www.linkedin.com/in/aylinorjuela">Aylin Orjuela</a></h3>
 
 ## Sobre mí
-📲 Desarrolladora mobile
+
+📲 **Desarrolladora mobile**
+
 Tecnóloga en Sistematización de Datos, tengo experiencia en el desarrollo de aplicaciones móviles utilizando Android Studio y Kotlin. Utilizo XML y Jetpack Compose para el diseño de las aplicaciones. En cuanto a la planificación, empleo principalmente la metodología ágil Scrum, también tengo conocimientos en la metodología RUP.
+
 
 ## Mis Aplicaciones
 
