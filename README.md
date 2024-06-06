@@ -13,12 +13,10 @@
 
 📲 **Desarrolladora mobile**
 
-Tecnóloga en Sistematización de Datos con experiencia en el desarrollo de aplicaciones móviles utilizando Android Studio y el lenguaje de programación Kotlin. Utilizo XML y Jetpack Compose para el diseño de las aplicaciones. En cuanto a la planificación, empleo principalmente la metodología ágil Scrum y también tengo conocimientos en la metodología RUP.
+Tecnóloga en Sistematización de Datos de la Universidad Distrital Francisco José de Caldas, con experiencia en el desarrollo de aplicaciones móviles utilizando Android Studio y el lenguaje de programación Kotlin. Utilizo XML y Jetpack Compose para el diseño de las aplicaciones. En cuanto a la planificación, empleo principalmente la metodología ágil Scrum y también tengo conocimientos en la metodología RUP.
 
 
-## Mis Aplicaciones
-
-### 1. Aplicación Principal
+## Aplicación Principal
 
 - **Gestión para Ganado de Cría y Levante**: Esta es mi aplicación principal diseñada para apoyar a los pequeños ganaderos. Proporciona herramientas y recursos esenciales para gestionar sus operaciones de manera más eficiente.
 
